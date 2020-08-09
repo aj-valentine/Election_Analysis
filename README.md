@@ -21,7 +21,7 @@ This project was created for Colorado Board of Elections employee, Tom in order 
    - Diana DeGette - 272,892 votes or 73.8% of total votes
    - Raymon Anthony Doane - 11,606 votes or 3.1% of total votes
 
---- insert screenshot of results 
+![image](https://user-images.githubusercontent.com/67871338/89722464-91685d80-d9b7-11ea-9a36-018724269d63.png)
 
 ## Election-Audit Summary 
 
