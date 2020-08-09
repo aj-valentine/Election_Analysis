@@ -2,7 +2,7 @@
 
 ## Overview of Election Audit :ballot_box_with_check:
 
-This project was created for Colorado Board of Elections employee, Tom in order to illustrate how Python can automate reporting to calculate election results for the US Congressional Precinct in Colordao. Instead of using Excel, Python code was used to calculate total election votes, total votes by candidate and the total votes by county. Details, such as largest city turnout and candidate winner were also included in the election audit. By automating this process with Python, this code can be used for other elections, such as senatorial and local elections. 
+This project was created for Colorado Board of Elections employee, Tom in order to illustrate how Python can automate reporting to calculate election results for the US Congressional Precinct in Colorado. Instead of using Excel, Python was used to calculate total election votes, total votes by candidate, and the total votes by county. Details such as largest city turnout and candidate winner were also included in the election audit. By automating this process with Python, this code can be used for other elections such as senatorial and local elections. 
 
 ## Election-Audit Results
 
